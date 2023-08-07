@@ -1,8 +1,8 @@
 
 public class Main {
     public static void main(String[] args) {
-        System.out.printf("Hello and welcome!sadsadsa");
-        System.out.printf("Hello 2!");
+        System.out.println("Hello and welcome!sadsadsa");
+        System.out.println("Hello 2!");
         for (int i = 1; i <= 5; i++) {
              System.out.println("i = " + i);
         }
